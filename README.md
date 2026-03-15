@@ -23,7 +23,7 @@ An AI-powered traffic monitoring and prediction system built using Streamlit and
 
 ## Installation
 
-git clone https://github.com/yourusername/smart-traffic-ai
+git clone https://https://github.com/MITHRAKAYAL137/Urban-Traffic-Intelligence-System
 
 cd smart-traffic-ai
 
